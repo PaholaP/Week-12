@@ -1,0 +1,35 @@
+.title {
+    text-align: center;
+    margin-top: 25px;
+    color:hotpink
+}
+
+h3 {
+    color: hotpink;
+
+}
+
+.form {
+    text-align: center;
+    margin-top: 25px;
+    color: pink;
+}
+
+input[type='submit'], button, [aria-label]{
+    cursor: pointer;
+}
+
+#edit-box {
+    display: none;
+    max-width: auto;
+    margin: auto;
+    margin-top: 10px;
+}
+
+td {
+    background-color: rgb(241, 228, 235);
+}
+
+.to-do {
+    background: transparent !important;
+}
